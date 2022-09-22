@@ -3,11 +3,11 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End eğitiminde oluştur
 
 ## Installation
 Repomdan aldığım link
-`git clone https://github.com/ErtugrlAlc/kodluyoruzilkrepo.git`
+* `git clone https://github.com/ErtugrlAlc/kodluyoruzilkrepo.git`
 
 ## Usage
 Cloneladıktan sonra vs code da açtım projeyi
-```cd kodluyoruzilkrepo code .```
+* ```cd kodluyoruzilkrepo code .```
 
 ## Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
